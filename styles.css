@@ -1,0 +1,12 @@
+
+body {
+    background-color: rgb(216, 191, 206);
+}
+
+
+    p {
+        font-family: Helvetica;
+        font-size: 200px;
+        color:  #012401;
+        text-align: center;
+    }
